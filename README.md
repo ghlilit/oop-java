@@ -3,7 +3,7 @@ Author: Ghandilyan Lilit
 Created: 9/9/2018
 Last modified: 9/13/2018
 
-##About
+## About
 This is an assignment which covers basic principles of Object Oriented Porgramming - Inheritance, Polymorohism and Encapsulation
 It is an implementation of an abstract management system program. The more specific instructions are in the Instructions file.
 
@@ -15,7 +15,7 @@ Run the Program: Run the program using Java Runtime "java", by issuing this comm
 java RFD
 
 
-##Solution Design
+## Solution Design
 The system is designed using object-oriented principles of Java. The top of the hierarchy is the Widget class. The classes DooToros and Critter extend Widgets.
 FloofyLoop and CatBus extend DooToros and SootBall extends CatBus. Sonic extends Critter. 
 
@@ -24,5 +24,5 @@ FloofyLoop and CatBus extend DooToros and SootBall extends CatBus. Sonic extends
 No bugs are identified by the author.
 
 
-##References
+## References
 NA
