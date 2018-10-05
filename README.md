@@ -1,6 +1,8 @@
 # Ridge Fluffy Dev widget management system
 Author: Ghandilyan Lilit
+
 Created: 9/9/2018
+
 Last modified: 9/13/2018
 
 ## About
