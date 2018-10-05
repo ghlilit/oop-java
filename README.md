@@ -6,7 +6,7 @@ Created: 9/9/2018
 Last modified: 9/13/2018
 
 ## About
-This is an assignment which covers basic principles of Object Oriented Porgramming - Inheritance, Polymorohism and Encapsulation
+This is an assignment which covers basic principles of Object Oriented Porgramming - Inheritance, Polymorphism and Encapsulation.
 It is an implementation of an abstract management system program. The more specific instructions are in the Instructions file.
 
 ## Download and Installation
